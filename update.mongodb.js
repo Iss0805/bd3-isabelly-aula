@@ -4,7 +4,8 @@ const collection = 'LIVRARIA';
 
 use(database);
 
-db[collection].find(
-    
-    
+/*ALTERA OS DADOS DE UM DOCUMENTO */
+
+db[collection].updateOne(
+   
 )
